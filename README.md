@@ -5,7 +5,5 @@
 **- Tool :** Python, Jupyter Notebook<br/>
 **- Model :** XGBoost Regression<br/>
 **- Purpose :**  Stock Price Prediction<br/>
-**- Reference :** XGBoost 모형을 활용한 코스피 200 주가지수 등락 예측에 관한 연구 <br/>
-      DOI : 10.7465/jkdi.2019.30.3.655
 
 
